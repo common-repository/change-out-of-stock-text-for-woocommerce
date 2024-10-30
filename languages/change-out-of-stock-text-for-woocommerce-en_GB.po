@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-12 21:51+0000\n"
+"PO-Revision-Date: 2020-11-12 21:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: change-out-of-stock-text-for-woocommerce.php:49
+msgid "You must activate/install woocommerce!"
+msgstr "You must activate/install woocommerce!"
+
+#: change-out-of-stock-text-for-woocommerce.php:58
+msgid "You already have the pro version active!"
+msgstr "You already have the pro version active!"
+
+#: change-out-of-stock-text-for-woocommerce.php:108
+msgid "Settings"
+msgstr "Settings"
+
+#: change-out-of-stock-text-for-woocommerce.php:125
+msgid "Text Changes"
+msgstr "Text Changes"
+
+#: change-out-of-stock-text-for-woocommerce.php:127
+msgid ""
+"Change the text showing the availability of a product to a customer. If you "
+"type $stock$ it will be replaced by the current stock of the relevent "
+"product (if you use this be careful that your products have a stock level, "
+"otherwise it will not take a value)."
+msgstr ""
+"Change the text showing the availability of a product to a customer. If you "
+"type $stock$ it will be replaced by the current stock of the relevent "
+"product (if you use this be careful that your products have a stock level, "
+"otherwise it will not take a value)."
+
+#: change-out-of-stock-text-for-woocommerce.php:133
+msgid "Out of stock default text"
+msgstr "Out of stock default text"
+
+#: change-out-of-stock-text-for-woocommerce.php:134
+msgid ""
+"When a product is out of stock, the availability information is changed to "
+"what you type here. Leave blank to keep the Woocommerce default text."
+msgstr ""
+"When a product is out of stock, the availability information is changed to "
+"what you type here. Leave blank to keep the Woocommerce default text."
+
+#: change-out-of-stock-text-for-woocommerce.php:141
+msgid "In stock default text"
+msgstr "In stock default text"
+
+#: change-out-of-stock-text-for-woocommerce.php:142
+msgid ""
+"When a product is in stock, the availability information is changed to what "
+"you type here. Leave blank to keep the Woocommerce default text."
+msgstr ""
+"When a product is in stock, the availability information is changed to what "
+"you type here. Leave blank to keep the Woocommerce default text."
+
+#: change-out-of-stock-text-for-woocommerce.php:149
+msgid "Low stock default text"
+msgstr "Low stock default text"
+
+#: change-out-of-stock-text-for-woocommerce.php:150
+msgid ""
+"When a product is low in stock, the availability information is changed to "
+"what you type here. Leave blank to use your \"in stock\" text or the "
+"woocommerce default if this is also blank."
+msgstr ""
+"When a product is low in stock, the availability information is changed to "
+"what you type here. Leave blank to use your \"in stock\" text or the "
+"woocommerce default if this is also blank."
+
+#~ msgid ""
+#~ "When a product is low in stock, the availability information is changed "
+#~ "to what you type here. Leave blank to use whatever would be displayed "
+#~ "when the product is \"in stock\"."
+#~ msgstr ""
+#~ "When a product is low in stock, the availability information is changed "
+#~ "to what you type here. Leave blank to use whatever would be displayed "
+#~ "when the product is \"in stock\"."
